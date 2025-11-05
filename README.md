@@ -6,22 +6,6 @@
   If you have tips, memes, or beginner’s advice—drop by and say hello!
 </div>
 
-## 📔 My Journal
-
-**Recent Highlights:**
-- Ran my first Docker container
-- Set up a simple GitHub Actions workflow
-- Learned about CI/CD vs CD
-
-**What I’m working on:**
-- Experimenting with cloud deployments
-- Studying Kubernetes basics
-
-**Next steps:**
-- Try Terraform for infrastructure as code
-- Join a DevOps study group!
-
----
 
 ### 🛠️ My Skills & Technologies
 
@@ -36,16 +20,6 @@
   <b style="color:#7F3FBF;">Version Control:</b> Git  
 </div>
 
----
-
-### 🚩 Featured Projects
-
-| Project | Description | Link |
-|---|---|---|
-| multi-prime-dh | Key exchange cryptography | [Repo](https://github.com/Lyynn777/multi-prime-dh) |
-| airgap-usb-ai-sim | AI in airgapped systems (collab) | [Repo](https://github.com/Asterior/airgap-usb-ai-sim) |
-| ML-IEEE-project_6b-ML | Machine learning research | [Repo](https://github.com/Lyynn777/ML-IEEE-project_6b-ML) |
-| openmp-log-analyzer | Parallel computing logs analysis | [Repo](https://github.com/Lyynn777/openmp-log-analyzer) |
 
 ---
 
