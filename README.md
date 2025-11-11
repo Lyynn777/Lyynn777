@@ -1,9 +1,10 @@
 <div align="center">
 <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3FBF&background=181A1E&center=true&vCenter=true&width=535&lines=Always+learning,+always+experimenting!;Curious+about+DevOps,+crypto,+and+AI.;Building+skills,+one+commit+at+a+time.>
-  
-  <b> Welcome!</b>
   <br>
-  If you have tips, memes, or beginner’s advice—drop by and say hello!
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome!
+  </h3>
+  <p>If you have tips, memes, or beginner’s advice—drop by and say hello!</p>
 </div>
 
 
@@ -20,6 +21,12 @@
   <b style="color:#7F3FBF;">Version Control:</b> Git  
 </div>
 
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyynn777&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyynn777&theme=tokyonight&hide_border=true" height="160">
+</div>
 
 ---
 
@@ -43,13 +50,14 @@
   </a>
 </div>
 
----
-
 <p align="center">
-  <b>🐾 Thanks for stopping by! Wishing you happy coding and lots of curiosity.</b>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 </p>
 
----
+<p align="center">
+  <b>🐾 Thanks for visiting! Stay curious, keep experimenting 💜</b><br>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjczbDBhbnhmNzd3ZzM4anE1anQzN3R2aTkycTVkNXZnaWdnN2oyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="80">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lyynn777&label=Profile%20Views&color=4361EE&style=flat-square" alt="Profile Views"/>
