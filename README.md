@@ -21,21 +21,13 @@
   <b style="color:#7F3FBF;">Version Control:</b> Git  
 </div>
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lyynn777&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyynn777&theme=tokyonight&hide_border=true" height="160">
-</div>
-
----
 
 ### 🤝 How You Can Help Me Learn
 - Suggest beginner-friendly open source projects
 - Share your favorite DevOps memes or resources
 - Answer my silly questions in Discussions
   
----
+
 
 ### 📫 Let's Connect!
 <div align="center">
