@@ -22,6 +22,8 @@
 </div>
 
 
+# portfolio coming soon!! 
+
 ### 🤝 How You Can Help Me Learn
 - Suggest beginner-friendly open source projects
 - Share your favorite DevOps memes or resources
