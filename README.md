@@ -8,18 +8,44 @@
 </div>
 
 
-### 🛠️ My Skills & Technologies
+# 🛠️ Skills & Technologies
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,c,docker,githubactions,linux,git,aws" />
+<!-- Programming -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 
-  <br>
-  <b style="color:#7F3FBF;">Programming:</b> Python • C  
-  <b style="color:#7F3FBF;">DevOps:</b> Docker • GitHub Actions • Linux  
-  <b style="color:#4361EE;">Cloud:</b> AWS  
-  <b style="color:#7F3FBF;">Version Control:</b> Git  
+<!-- AI/ML -->
+<img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-NLP-orange?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<!-- GPU -->
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCUDA-00599C?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- Big Data -->
+<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache&logoColor=black" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" />
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+<!-- Data -->
+<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<!-- Security -->
+<img src="https://img.shields.io/badge/Cryptography-DH%20%7C%20AES%20%7C%20X.509-8A2BE2?style=for-the-badge" />
+
 </div>
+
 
 
 # portfolio coming soon!
