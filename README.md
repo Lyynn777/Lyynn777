@@ -2,10 +2,22 @@
 <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3FBF&background=181A1E&center=true&vCenter=true&width=535&lines=Always+learning,+always+experimenting!;Curious+about+DevOps,+crypto,+and+AI.;Building+skills,+one+commit+at+a+time.>
   <br>
   <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome!
+     Welcome!
   </h3>
   <p>If you have tips, memes, or beginner’s advice—drop by and say hello!</p>
 </div>
+
+# Hi, I'm Pragya M S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+💻 Computer Science Student  
+🚀 Passionate about Android Development, Security, and Systems  
+
+I enjoy building projects that explore how software, hardware, and systems interact.
+
+Currently learning:
+- Android Development (Jetpack Compose)
+- Cryptography
+- System Design
 
 
 # 🛠️ Skills & Technologies
@@ -46,13 +58,18 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Lyynn777&show_icons=true)     
+
+![Pragya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lyynn777)
 
 ### 🤝 How You Can Help Me Learn
 - Suggest beginner-friendly open source projects
 - Share your favorite DevOps memes or resources
 - Answer my silly questions in Discussions
   
-
+<!--![Snake animation](https://github.com/Lyynn777/Lyynn777/blob/output/github-contribution-grid-snake.svg)-->
 
 ### 📫 Let's Connect!
 <div align="center">
