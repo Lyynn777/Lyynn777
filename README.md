@@ -7,7 +7,7 @@
   <p>If you have tips, memes, or beginner’s advice—drop by and say hello!</p>
 </div>
 
-# Hi, I'm Pragya M S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# Hi, I'm Pragya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 💻 Computer Science Student  
 🚀 Passionate about Android Development, Security, and Systems  
