@@ -2,7 +2,7 @@
 <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3FBF&background=181A1E&center=true&vCenter=true&width=535&lines=Always+learning,+always+experimenting!;Curious+about+DevOps,+crypto,+and+AI.;Building+skills,+one+commit+at+a+time.>
   <br>
   <h3>
-     Welcome!
+     
   </h3>
   <p>If you have tips, memes, or beginner’s advice—drop by and say hello!</p>
 </div>
