@@ -16,7 +16,6 @@ I enjoy building projects that explore how software, hardware, and systems inter
 
 Currently learning:
 - Android Development (Jetpack Compose)
-- Cryptography
 - System Design
 
 
