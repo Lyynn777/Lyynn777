@@ -14,10 +14,6 @@
 
 I enjoy building projects that explore how software, hardware, and systems interact.
 
-Currently learning:
-- Android Development (Jetpack Compose)
-
-
 # 🛠️ Skills & Technologies
 
 <div align="center">
