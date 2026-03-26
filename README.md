@@ -9,8 +9,6 @@
 
 # Hi, I'm Pragya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-💻 Computer Science Student  
-🚀 Passionate about Android Development, Security, and Systems  
 
 I enjoy building projects that explore how software, hardware, and systems interact.
 
