@@ -12,41 +12,24 @@
 
 I enjoy building projects that explore how software, hardware, and systems interact.
 
-# 🛠️ Skills & Technologies
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<!-- Programming -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-NLP-orange?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<!-- GPU -->
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCUDA-00599C?style=for-the-badge&logo=python&logoColor=white" />
-
-<!-- Big Data -->
-<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache&logoColor=black" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" />
-
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-
-<!-- Web -->
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-
-<!-- Data -->
-<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<!-- Security -->
-<img src="https://img.shields.io/badge/Cryptography-DH%20%7C%20AES%20%7C%20X.509-8A2BE2?style=for-the-badge" />
+<!-- Core -->
+<img src="https://skillicons.dev/icons?i=python,c,kotlin,linux,docker,git,githubactions,firebase,gcp" />
+<br>
+<img src="https://img.shields.io/badge/AI%20%7C%20ML-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-HuggingFace-ffbf00?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-GPU%20Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCUDA-Parallel%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-Big%20Data-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+<img src="https://img.shields.io/badge/Hadoop-Distributed%20Systems-66CCFF?style=for-the-badge&logo=apache&logoColor=black" />
+<img src="https://img.shields.io/badge/Cryptography-AES%20%7C%20DH%20%7C%20X.509-8A2BE2?style=for-the-badge" />
 
 </div>
 
